@@ -20,3 +20,6 @@ dengan tampilan UI seperti dibawah ini :
 
 ### Penyelesaian 
 
+Untuk code terdapat di file diatas,berikut adalah cara proses pengerjaannya : 
+
+
