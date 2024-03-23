@@ -22,6 +22,8 @@ dengan tampilan UI seperti dibawah ini :
 
 Untuk code terdapat di file diatas,berikut adalah cara proses pengerjaannya : 
 
+https://youtube.com/playlist?list=PLX6-R-An_x9MzdUbiA5P30VoDorWjE2ya&si=nxX3YEN82N4DIFBu
+
 Hasil Run
 
 ![hasil RUN JSON1](https://github.com/yogafrtm25/PARSING_JSON_/assets/115678171/a99d0163-a645-40bc-a295-8877e2e92521)
